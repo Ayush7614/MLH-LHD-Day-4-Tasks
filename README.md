@@ -1,5 +1,5 @@
 #### Screenshot
-- [SS](https://github.com/Ayush7614/MLH-LHD-Day-4-Tasks-Todo-List/blob/main/WhatsApp%20Image%202021-01-14%20at%2010.37.13.jpeg)
+  <img align="center" alt="JPEG" src="https://github.com/Ayush7614/MLH-LHD-Day-4-Tasks-Todo-List/blob/main/WhatsApp%20Image%202021-01-14%20at%2010.37.13.jpeg?raw=true" width="500" height="320" />
 
 # TODO LIST using Javascript
 
